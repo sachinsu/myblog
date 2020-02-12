@@ -1,7 +1,7 @@
 ---
 title: "Using .NET standard Assembly in .NET core and .NET Framework"
 date: 2020-02-07T10:25:04+05:30
-draft: true
+draft: false
 ---
 
 # Using .NET standard Assembly in both .NET core and .NET Framework

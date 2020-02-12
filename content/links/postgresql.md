@@ -1,7 +1,7 @@
 ---
 title: "PostgreSQL"
 date: 2020-02-07T15:08:50+05:30
-draft: true
+draft: false
 ---
 
 # PostgreSQL 
