@@ -31,6 +31,7 @@ My current Favourite Language
 - [Cancellable Pipelines in Go](https://blog.golang.org/pipelines)
 - [Running Go binary in Docker](https://jpetazzo.github.io/2016/09/09/go-docker/)
 - [Go for Cloud - Tips and Techniques](https://rakyll.org/go-cloud/)
+- [Why and what to instrument in Go Web Apps](https://alex.dzyoba.com/blog/go-prometheus-service/)
 
 ## Libraries, Tools
 ### Task queues
