@@ -30,6 +30,7 @@ My current Favourite Language
 - [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)
 - [Cancellable Pipelines in Go](https://blog.golang.org/pipelines)
 - [Running Go binary in Docker](https://jpetazzo.github.io/2016/09/09/go-docker/)
+- [Go for Cloud - Tips and Techniques](https://rakyll.org/go-cloud/)
 
 ## Libraries, Tools
 ### Task queues
