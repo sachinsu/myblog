@@ -19,3 +19,7 @@ draft: false
 
 ## Apache Pinot
 - [Pinot- Enabling Real-time Analytics @ linkedin](https://www.slideshare.net/seunghyunlee1460/pinot-enabling-realtime-analytics-applications-linkedins-scale)
+
+## Redis
+- [Redis High Availability](https://alex.dzyoba.com/blog/redis-ha/)
+- [Redis Cluster](https://alex.dzyoba.com/blog/redis-cluster/)

@@ -32,6 +32,7 @@ My current Favourite Language
 - [Running Go binary in Docker](https://jpetazzo.github.io/2016/09/09/go-docker/)
 - [Go for Cloud - Tips and Techniques](https://rakyll.org/go-cloud/)
 - [Why and what to instrument in Go Web Apps](https://alex.dzyoba.com/blog/go-prometheus-service/)
+- [Continuous Profiling of Go programs](https://medium.com/google-cloud/continuous-profiling-of-go-programs-96d4416af77b)
 
 ## Libraries, Tools
 ### Task queues
