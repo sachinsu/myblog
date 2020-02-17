@@ -21,6 +21,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Slides Managing Data Consistency in Microservices Architecture ](https://www.slideshare.net/chris.e.richardson/saturn-2018-managing-data-consistency-in-a-microservice-architecture-using-sagas)
 - [Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)
 - [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html#fnref:1)
+- [Monolith - Modular Approach](https://speakerd.s3.amazonaws.com/presentations/7590b86ae80649c19cbbbb27ad89d798/2018-02-22_Microservices_Meetup_Munich_-_Monoliths.pdf)
 
 ## Distributed Systems
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
