@@ -22,6 +22,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)
 - [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html#fnref:1)
 - [Monolith - Modular Approach](https://speakerd.s3.amazonaws.com/presentations/7590b86ae80649c19cbbbb27ad89d798/2018-02-22_Microservices_Meetup_Munich_-_Monoliths.pdf)
+- [You don't need Microservices](https://medium.com/swlh/stop-you-dont-need-microservices-dc732d70b3e0)
 
 ## Distributed Systems
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
@@ -55,3 +56,8 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [What’s in a CI pipeline](https://deors.wordpress.com/2019/04/19/whats-in-a-ci-pipeline/)
 - [Repository of DevOps Questions n Answers](https://github.com/bregman-arie/devops-exercises#readme)
 - [Microsoft App Inspector](https://github.com/microsoft/ApplicationInspector)
+
+## Distributed messaging, Streams
+
+- [Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
+- [Oracle Advanced Queues](https://www.oracle.com/database/technologies/advanced-queuing.html)
