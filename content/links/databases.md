@@ -19,8 +19,13 @@ Knowledge base around general database related topics.
 - [Building Real Time Analytics APIs at Scale](https://blog.algolia.com/building-real-time-analytics-apis/)
 - [Streaming Database Changes with Debezium](https://www.youtube.com/watch?v=Qvrhh0sHCrc)
 - [Why you should pick strong consistency, whenever possible](https://cloud.google.com/blog/products/gcp/why-you-should-pick-strong-consistency-whenever-possible)
+- [Change Data Capture, Outbox and Event Sourcing](https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/)
 
 ## Services and Offerings
 
 ## Data Analytics 
 - [List of Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
+
+
+## ETL, Evolutionary Practices 
+- [Database CI/CD practices using Redshift](https://medium.com/big-data-engineering/redshift-cicd-how-we-did-it-and-why-you-should-do-it-to-e46ecf734eab)
