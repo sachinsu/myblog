@@ -107,6 +107,6 @@ pygmentscodefencesguesssyntax = true
             [[languages.en.menu.main]]
             name = "Useful Links"
             weight = 5
-            url = "links/"
+            url = "links/home"
 
 

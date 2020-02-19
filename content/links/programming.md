@@ -24,6 +24,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Monolith - Modular Approach](https://speakerd.s3.amazonaws.com/presentations/7590b86ae80649c19cbbbb27ad89d798/2018-02-22_Microservices_Meetup_Munich_-_Monoliths.pdf)
 - [You don't need Microservices](https://medium.com/swlh/stop-you-dont-need-microservices-dc732d70b3e0)
 
+
 ## Distributed Systems
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
 - [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology](https://servicemesh.io/)
