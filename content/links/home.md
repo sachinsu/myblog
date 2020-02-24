@@ -22,5 +22,3 @@ draft: false
 #### Must follow Community Sites 
 - [Hacker news](https://news.ycombinator.com)
 - [Lobsters](https://lobste.rs)
-
-

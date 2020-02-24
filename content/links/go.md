@@ -34,6 +34,7 @@ My current Favourite Language
 - [Why and what to instrument in Go Web Apps](https://alex.dzyoba.com/blog/go-prometheus-service/)
 - [Continuous Profiling of Go programs](https://medium.com/google-cloud/continuous-profiling-of-go-programs-96d4416af77b)
 - [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years)
+- [Go Concurrency - Singleflight, Bounded concurrency, Weighted bounded concurrency](https://encore.dev/blog/advanced-go-concurrency)
 
 ## Libraries, Tools
 ### Task queues
