@@ -9,6 +9,7 @@ draft: false
 ## Amazon DynamoDB 
 - [Data Modelling in DynamoDB](https://www.youtube.com/watch?v=6yqfmXiZTlM)
 - [Must follow Twitter handle of Rick Houlihan](https://twitter.com/houlihan_rick?lang=en)
+- [Best Practices for Secondary Indexes with DynamoDB](https://www.trek10.com/blog/best-practices-for-secondary-indexes-with-dynamodb/)
 
 
 ## Apache Cassandra 

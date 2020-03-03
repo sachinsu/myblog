@@ -40,6 +40,7 @@ My current Favourite Language
 ### Task queues
 - [Machinery - Asynchronous task queue/job queue](https://github.com/RichardKnop/machinery)
 - [Bleve - Full text Search Engine](http://blevesearch.com/)
+- [Event Sourcing, pub/sub using AMQP/SQL/Channels](https://github.com/ThreeDotsLabs/watermill)
 
 ## Videos, Talks
 - [Best practices for Industrial Programming - by Peter Bourgon](https://www.youtube.com/watch?v=PTE4VJIdHPg)
