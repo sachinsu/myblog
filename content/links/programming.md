@@ -23,6 +23,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html#fnref:1)
 - [Monolith - Modular Approach](https://speakerd.s3.amazonaws.com/presentations/7590b86ae80649c19cbbbb27ad89d798/2018-02-22_Microservices_Meetup_Munich_-_Monoliths.pdf)
 - [You don't need Microservices](https://medium.com/swlh/stop-you-dont-need-microservices-dc732d70b3e0)
+- [Event Modelling - Approach](https://eventmodeling.org/posts/what-is-event-modeling/)
 
 
 ## Distributed Systems
@@ -62,3 +63,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 
 - [Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
 - [Oracle Advanced Queues](https://www.oracle.com/database/technologies/advanced-queuing.html)
+
+## Rust
+
+- [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
