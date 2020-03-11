@@ -37,6 +37,7 @@ Platform where i have spent most time till now.
 - [Collection of HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful) ](https://github.com/denji/awesome-http-benchmark)
 - [Light weight cross-platform test automation](https://gauge.org)
 - [Event sourcing using variety of stores like AMQP, database](https://github.com/eventflow/EventFlow)
+- [Web API rate limiting](https://github.com/stefanprodan/WebApiThrottle)
 
 ## .NET Core
 - [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?WT.mc_id=ondotnet-channel9-cephilli&view=aspnetcore-2.2)

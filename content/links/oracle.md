@@ -13,6 +13,7 @@ draft: false
 - [Best Practices for Extreme Performance with Oracle Data Warehousing](https://www.oracle.com/technetwork/database/bi-datawarehousing/pres-best-practices-for-extreme-per-130805.pdf)
 - [Blog on Oracle Performance troubleshooting](https://savvinov.com/)
 - [Using PL/SQL Bulk processing features](https://blogs.oracle.com/oraclemagazine/solving-the-row-by-row-problem)
+- [Auditing tables using Oracle Flashback data archive instead of triggers](https://blogs.oracle.com/oraclemagazine/a-fresh-look-at-auditing-row-changes)
 
 ## Videos
 - [Real world performance video series](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvwEXdaubc6PQXwnQOAE9h2)
