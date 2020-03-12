@@ -44,6 +44,9 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Awesome Design tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 - [Regex Repository](https://ihateregex.io/)
 - [SpiderFoot, the most complete OSINT collection and reconnaissance tool](https://github.com/smicallef/spiderfoot)
+- [Cloud Architecture Diagrams](https://cloudcraft.co)
+- [Online Flowcharts, UML diagrams](https://www.draw.io/)
+- [Figma - Design and prototype builder](https://www.figma.com/)
 
 ## Devops/Monitoring
 - [Instrumenting Your Node/Express Application: Viewing Your Data](https://www.influxdata.com/blog/instrumenting-your-node-express-application-viewing-your-data/)
