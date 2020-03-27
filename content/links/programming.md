@@ -26,7 +26,6 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Event Modelling - Approach](https://eventmodeling.org/posts/what-is-event-modeling/)
 - [Ready for changes with Hexagonal Architecture](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 
-
 ## Distributed Systems
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
 - [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology](https://servicemesh.io/)
@@ -47,6 +46,11 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Cloud Architecture Diagrams](https://cloudcraft.co)
 - [Online Flowcharts, UML diagrams](https://www.draw.io/)
 - [Figma - Design and prototype builder](https://www.figma.com/)
+- [RabbitMQ vs Kafka](https://arxiv.org/pdf/1709.00333.pdf)
+- [A comparison between RabbitMQ and Apache Kafka](https://tarunbatra.com/blog/comparison/How-to-choose-between-Kafka-and-RabbitMQ/)
+- [Open source Voice chat](https://www.mumble.info/)
+- [Open source Video Conferencing](https://jitsi.org/)
+- [Open network for secure, decentralized communication](https://matrix.org/)
 
 ## Devops/Monitoring
 - [Instrumenting Your Node/Express Application: Viewing Your Data](https://www.influxdata.com/blog/instrumenting-your-node-express-application-viewing-your-data/)
