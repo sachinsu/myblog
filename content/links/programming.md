@@ -25,6 +25,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [You don't need Microservices](https://medium.com/swlh/stop-you-dont-need-microservices-dc732d70b3e0)
 - [Event Modelling - Approach](https://eventmodeling.org/posts/what-is-event-modeling/)
 - [Ready for changes with Hexagonal Architecture](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
+- [How to fix Overloaded Web server](https://web.dev/overloaded-server/)
 
 ## Distributed Systems
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
@@ -32,6 +33,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [E-book kubernetes Up & Running](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/)
 - [Class materials for a distributed systems lecture series](https://github.com/aphyr/distsys-class)
 - [Containers - Training resources](https://container.training/)
+- [Trying out durable, replicated quorum queues in RabbitMQ](https://seroter.com/2020/01/28/lets-try-out-the-new-durable-replicated-quorum-queues-in-rabbitmq/)
 
 
 ## Automation 
@@ -48,9 +50,12 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Figma - Design and prototype builder](https://www.figma.com/)
 - [RabbitMQ vs Kafka](https://arxiv.org/pdf/1709.00333.pdf)
 - [A comparison between RabbitMQ and Apache Kafka](https://tarunbatra.com/blog/comparison/How-to-choose-between-Kafka-and-RabbitMQ/)
+- [Comparing RabbitMQ and Kafka](https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html)
 - [Open source Voice chat](https://www.mumble.info/)
 - [Open source Video Conferencing](https://jitsi.org/)
 - [Open network for secure, decentralized communication](https://matrix.org/)
+- [Alternatives for Local Kubernetes development](https://seroter.com/2020/03/10/lets-look-at-your-options-for-local-development-with-kubernetes/)
+- [Open source infrastructure and application Monitoring](https://netdata.cloud)
 
 ## Devops/Monitoring
 - [Instrumenting Your Node/Express Application: Viewing Your Data](https://www.influxdata.com/blog/instrumenting-your-node-express-application-viewing-your-data/)
@@ -75,3 +80,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 ## Rust
 
 - [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
+
+## Nerdy Videos
+
+- [Contalks](https://www.reddit.com/r/ConTalks/)

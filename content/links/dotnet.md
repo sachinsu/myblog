@@ -19,6 +19,7 @@ Platform where i have spent most time till now.
 - [Clean Architecture in .NET](https://github.com/ardalis/CleanArchitecture)
 - [Security Code Scan in .NET](https://security-code-scan.github.io/)
 - [You’re (probably still) using HttpClient wrong and it is destabilizing your software](https://josefottosson.se/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
+- [Async/Await - Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
 
 ## Performance related 
 - [List of Awesome Resources](https://github.com/adamsitnik/awesome-dot-net-performance)
