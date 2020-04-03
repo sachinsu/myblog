@@ -56,6 +56,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Open network for secure, decentralized communication](https://matrix.org/)
 - [Alternatives for Local Kubernetes development](https://seroter.com/2020/03/10/lets-look-at-your-options-for-local-development-with-kubernetes/)
 - [Open source infrastructure and application Monitoring](https://netdata.cloud)
+- [Jami - tool for Encrypted Audio/Video calls](https://jami.net/#)
 
 ## Devops/Monitoring
 - [Instrumenting Your Node/Express Application: Viewing Your Data](https://www.influxdata.com/blog/instrumenting-your-node-express-application-viewing-your-data/)
