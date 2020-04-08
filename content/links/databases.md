@@ -21,6 +21,7 @@ Knowledge base around general database related topics.
 - [Why you should pick strong consistency, whenever possible](https://cloud.google.com/blog/products/gcp/why-you-should-pick-strong-consistency-whenever-possible)
 - [Change Data Capture, Outbox and Event Sourcing](https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/)
 - [Using Streamsets for CDC From Oracle to Other destinations](https://streamsets.com/blog/replicating-oracle-to-mysql-and-json/)
+- [Transactions in Google Spanner](https://spanner.fyi/transactions/)
 
 ## Services and Offerings
 

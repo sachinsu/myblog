@@ -10,6 +10,7 @@ Platform where i have spent most time till now.
 
 ## General Links
 - [Async in Depth](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth)
+- [Using Async/Await in WCF or ASMX with AsyncEx](https://blog.stephencleary.com/2012/08/async-wcf-today-and-tomorrow.html)
 - [.NET Presentations - Events in a Box](https://presentations.dotnetfoundation.org/)
 - [Building Microservices in .NET](https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/)
 - [Oracle DB & .NET - Optimizing Real-World Performance with Static Connection Pools](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/jjucp/optimizing-real-world-performance.html#GUID-BC09F045-5D80-4AF5-93F5-FEF0531E0E1D)
@@ -25,6 +26,7 @@ Platform where i have spent most time till now.
 - [List of Awesome Resources](https://github.com/adamsitnik/awesome-dot-net-performance)
 - [C# Job Queues with TPL Dataflow and Failure Handling](https://michaelscodingspot.com/c-job-queues-part-3-with-tpl-dataflow-and-failure-handling/)
 - [Know about Threadpool, types of Threads in CLR and changing them to improve performance](https://gist.github.com/JonCole/e65411214030f0d823cb)
+- [Work flow of diagnosing memory performance issues](https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-0/)
 
 ## Windows Forms 
 - [Task.run vs. BackgroundWorker](https://blog.stephencleary.com/2013/09/taskrun-vs-backgroundworker-conclusion.html)

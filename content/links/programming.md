@@ -26,6 +26,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Event Modelling - Approach](https://eventmodeling.org/posts/what-is-event-modeling/)
 - [Ready for changes with Hexagonal Architecture](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 - [How to fix Overloaded Web server](https://web.dev/overloaded-server/)
+- [How gov.uk reliably sends SMS messages using multiple providers](https://gds.blog.gov.uk/2020/04/03/how-gov-uk-notify-reliably-sends-text-messages-to-users/)
 
 ## Distributed Systems
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
