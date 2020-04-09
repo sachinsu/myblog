@@ -14,6 +14,7 @@ draft: false
 - [Online event processing by Martin Klepmann](https://queue.acm.org/detail.cfm?id=3321612)
 - [PostgreSQL rocks, except when it blocks: Understanding locks](https://www.citusdata.com/blog/2018/02/15/when-postgresql-blocks/)
 - [Connection handling best practice with PostgreSQL](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/connection-handling-best-practice-with-postgresql/ba-p/790883)
+- [10 Things I Hate About PostgreSQL](https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791)
 
 
 ## Performance tuning, configuration etc.
