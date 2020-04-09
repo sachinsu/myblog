@@ -1,10 +1,8 @@
 ---
-title: "ASP.NET Core - Mind the Samesite settings"
+title: "ASP.NET Core - Mind the SameSite HTTP Cookie settings"
 date: 2020-04-09T10:25:04+05:30
 draft: false
 ---
-
-# Mind the Samesite settings
 
 ## Background
 A Web Application, developed in ASP.NET Core (Runtime Version 3.1.100) using Razor Pages and Web API, is expected to be launched from within third-party Web Application in iframe, with complete HTML being rendered.
