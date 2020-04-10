@@ -52,5 +52,6 @@ services.AddAntiforgery(options =>
 ##### References
 - [SameSite cookie updates in ASP.net, or how the .Net Framework from December changed my cookie usage. ](https://techcommunity.microsoft.com/t5/iis-support-blog/samesite-cookie-updates-in-asp-net-or-how-the-net-framework-from/ba-p/1156246)
 - [Changes in SameSite Cookie in ASP.NET/Core and How it Impacts the Browser (Specifically Chrome) ](https://techcommunity.microsoft.com/t5/iis-support-blog/changes-in-samesite-cookie-in-asp-net-core-and-how-it-impacts/ba-p/1150771)
+- [HTTP 203 Podcast covering CORS,CORB, Samesite](https://http203.libsyn.com/fish-scripts-special)
 
 Happy Coding !!
