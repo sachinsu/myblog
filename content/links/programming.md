@@ -58,6 +58,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Alternatives for Local Kubernetes development](https://seroter.com/2020/03/10/lets-look-at-your-options-for-local-development-with-kubernetes/)
 - [Open source infrastructure and application Monitoring](https://netdata.cloud)
 - [Jami - tool for Encrypted Audio/Video calls](https://jami.net/#)
+- [Keycloak - Open source Identity and Access Management](https://www.keycloak.org)
 
 ## Devops/Monitoring
 - [Instrumenting Your Node/Express Application: Viewing Your Data](https://www.influxdata.com/blog/instrumenting-your-node-express-application-viewing-your-data/)
@@ -73,6 +74,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [What’s in a CI pipeline](https://deors.wordpress.com/2019/04/19/whats-in-a-ci-pipeline/)
 - [Repository of DevOps Questions n Answers](https://github.com/bregman-arie/devops-exercises#readme)
 - [Microsoft App Inspector](https://github.com/microsoft/ApplicationInspector)
+- [Google Incident Response Framework](https://grr-doc.readthedocs.io/en/latest/what-is-grr.html)
 
 ## Distributed messaging, Streams
 
