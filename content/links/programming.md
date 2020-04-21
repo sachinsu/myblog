@@ -60,6 +60,11 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Jami - tool for Encrypted Audio/Video calls](https://jami.net/#)
 - [Keycloak - Open source Identity and Access Management](https://www.keycloak.org)
 
+## Open source Pipelining, workflows 
+- [Pipelines/workflow frameworks](https://github.com/pditommaso/awesome-pipeline)
+- [ETL frameworks](https://github.com/pawl/awesome-etl)
+- [Streaming frameworks](https://github.com/manuzhang/awesome-streaming)
+
 ## Devops/Monitoring
 - [Instrumenting Your Node/Express Application: Viewing Your Data](https://www.influxdata.com/blog/instrumenting-your-node-express-application-viewing-your-data/)
 - [Zabbix, Time Series Data and TimescaleDB – Zabbix Blog](https://blog.zabbix.com/zabbix-time-series-data-and-timescaledb/6642/)

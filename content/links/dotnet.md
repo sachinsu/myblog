@@ -48,6 +48,7 @@ Platform where i have spent most time till now.
 - [Model binding in ASP.NET core](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-3.1)
 - [HttpClient Connection Pooling in .NET Core](https://www.stevejgordon.co.uk/httpclient-connection-pooling-in-dotnet-core)
 - [An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
+- [Working with Channels With Stephen Toub](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET?WT.mc_id=ondotnet-c9-cephilli)
 
 ## Twitter Handles
 

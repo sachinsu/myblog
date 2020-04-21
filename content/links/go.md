@@ -42,10 +42,6 @@ My current Favourite Language
 - [Bleve - Full text Search Engine](http://blevesearch.com/)
 - [Event Sourcing, pub/sub using AMQP/SQL/Channels](https://github.com/ThreeDotsLabs/watermill)
 
-## Open source Pipelining, workflows 
-- [Pipelines/workflow frameworks](https://github.com/pditommaso/awesome-pipeline)
-- [ETL frameworks](https://github.com/pawl/awesome-etl)
-- [Streaming frameworks](https://github.com/manuzhang/awesome-streaming)
 
 ## Videos, Talks
 - [Best practices for Industrial Programming - by Peter Bourgon](https://www.youtube.com/watch?v=PTE4VJIdHPg)
@@ -56,6 +52,9 @@ My current Favourite Language
 - [Visualize Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)
 - [Real-world systems in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
 - [Zen of Go - Ten engineering values for writing simple, readable, maintainable Go code](https://the-zen-of-go.netlify.com/)
+
+## Code snippets
+- [Remote service with Retries](https://play.golang.org/p/3mNhCTl01bX)
 
 ## Podcasts
 - [Go Time](https://changelog.com/gotime)

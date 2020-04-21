@@ -27,6 +27,7 @@ Knowledge base around general database related topics.
 
 ## Data Analytics 
 - [List of Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
+- [Data Visualization framework for Python](https://dash.plotly.com/)
 
 
 ## ETL, Evolutionary Practices 

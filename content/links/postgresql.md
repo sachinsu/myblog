@@ -15,6 +15,7 @@ draft: false
 - [PostgreSQL rocks, except when it blocks: Understanding locks](https://www.citusdata.com/blog/2018/02/15/when-postgresql-blocks/)
 - [Connection handling best practice with PostgreSQL](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/connection-handling-best-practice-with-postgresql/ba-p/790883)
 - [10 Things I Hate About PostgreSQL](https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791)
+- [Top Tools and Recommendations to Manage Postgres in an Enterprise: Administration, Performance, High Availability, and Migration](https://www.enterprisedb.com/blog/top-tools-and-recommendations-manage-postgres-enterprise-administration-performance-high)
 
 
 ## Performance tuning, configuration etc.

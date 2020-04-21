@@ -14,7 +14,10 @@ draft: false
 - [Blog on Oracle Performance troubleshooting](https://savvinov.com/)
 - [Using PL/SQL Bulk processing features](https://blogs.oracle.com/oraclemagazine/solving-the-row-by-row-problem)
 - [Auditing tables using Oracle Flashback data archive instead of triggers](https://blogs.oracle.com/oraclemagazine/a-fresh-look-at-auditing-row-changes)
+- [Bulk processing with PL/SQL](https://livesql.oracle.com/apex/livesql/file/tutorial_IEHP37S6LTWIIDQIR436SJ59L.html)
 
 ## Videos
 - [Real world performance video series](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvwEXdaubc6PQXwnQOAE9h2)
 - [How to:Analyze AWR Report](https://www.youtube.com/watch?v=xSXQ3EwU8t0)
+- [5 Minutes Demo: Using Liquibase in SQLcl to version Oracle Database](https://www.thatjeffsmith.com/archive/2020/02/5-minutes-demo-using-liquibase-in-sqlcl-to-version-oracle-database/)
+- [Analytic SQL for Developers - Free course](https://devgym.oracle.com/pls/apex/dg/class/analytic-sql-for-developers.html)
