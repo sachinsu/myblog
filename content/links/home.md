@@ -7,6 +7,7 @@ draft: false
 #### Below is list of Useful links for various technical topics as below, 
 
 - [Awesome](http://awesome.re/) - de-facto repository covering wide range of technical topics.
+- [Awesome List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
 - [Perspectives](/links/perspectives/)
 - [Concepts, Strategies etc.](/links/programming/)
 - [Testing](/links/testing/)

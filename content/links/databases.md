@@ -22,6 +22,8 @@ Knowledge base around general database related topics.
 - [Change Data Capture, Outbox and Event Sourcing](https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/)
 - [Using Streamsets for CDC From Oracle to Other destinations](https://streamsets.com/blog/replicating-oracle-to-mysql-and-json/)
 - [Transactions in Google Spanner](https://spanner.fyi/transactions/)
+- [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+- [MySQL Sharding at Quora](https://www.quora.com/q/quoraengineering/MySQL-sharding-at-Quora?share=1)
 
 ## Services and Offerings
 
