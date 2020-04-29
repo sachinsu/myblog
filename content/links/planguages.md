@@ -20,3 +20,7 @@ draft: false
 - [Why our team cancelled our move to microservices](https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952)
 - [How Does HTTPS Work? RSA Encryption Explained](https://tiptopsecurity.com/how-does-https-work-rsa-encryption-explained/)
 - [How do you cut a monolith in half?](https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half)
+
+
+## Containers 
+- [Awesome Collection of Docker Compose Recipes](https://github.com/docker/awesome-compose)

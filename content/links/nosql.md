@@ -24,3 +24,6 @@ draft: false
 ## Redis
 - [Redis High Availability](https://alex.dzyoba.com/blog/redis-ha/)
 - [Redis Cluster](https://alex.dzyoba.com/blog/redis-cluster/)
+
+## ElasticSearch
+- [Deep Dive into Querying Elasticsearch. Filter vs Query. Full-text search](https://towardsdatascience.com/deep-dive-into-querying-elasticsearch-filter-vs-query-full-text-search-b861b06bd4c0)

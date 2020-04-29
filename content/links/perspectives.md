@@ -13,3 +13,4 @@ Section covering Business, project/programming perspectives
 - [Data Science: Reality Doesn't Meet Expectations](https://dfrieds.com/articles/data-science-reality-vs-expectations.html)
 - [Quantum computing for the very curious](https://quantum.country/qcvc#part-I)
 - [How to Speak (MIT)](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
+- [What questions should systems architects ask before creating anything](https://medium.com/@budilov/what-questions-should-systems-architects-ask-before-creating-anything-6cd92a01e71b)
