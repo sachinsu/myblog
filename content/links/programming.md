@@ -59,6 +59,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Open source infrastructure and application Monitoring](https://netdata.cloud)
 - [Jami - tool for Encrypted Audio/Video calls](https://jami.net/#)
 - [Keycloak - Open source Identity and Access Management](https://www.keycloak.org)
+- [Awk in 20 minutes](https://ferd.ca/awk-in-20-minutes.html)
 
 ## Open source Pipelining, workflows 
 - [Pipelines/workflow frameworks](https://github.com/pditommaso/awesome-pipeline)

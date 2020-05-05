@@ -24,6 +24,8 @@ Knowledge base around general database related topics.
 - [Transactions in Google Spanner](https://spanner.fyi/transactions/)
 - [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 - [MySQL Sharding at Quora](https://www.quora.com/q/quoraengineering/MySQL-sharding-at-Quora?share=1)
+- [Interactive Book about SQL](https://selectstarsql.com/)
+- [SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
 
 ## Services and Offerings
 
