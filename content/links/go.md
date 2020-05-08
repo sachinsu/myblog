@@ -52,6 +52,7 @@ My current Favourite Language
 - [Visualize Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)
 - [Real-world systems in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
 - [Zen of Go - Ten engineering values for writing simple, readable, maintainable Go code](https://the-zen-of-go.netlify.com/)
+- [Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)
 
 ## Code snippets
 - [Remote service with Retries](https://play.golang.org/p/3mNhCTl01bX)

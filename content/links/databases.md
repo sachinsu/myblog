@@ -33,6 +33,9 @@ Knowledge base around general database related topics.
 - [List of Computational Data Analysis Workflow Systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
 - [Data Visualization framework for Python](https://dash.plotly.com/)
 - [Create a Serverless Data Lake on AWS and Migrate your On-Prem Data to it](https://medium.com/@budilov/create-a-serverless-data-lake-on-aws-and-migrate-your-on-prem-data-to-it-80dad09e23cb)
+- [Analytics Academy by Segment](https://segment.com/academy/)
+- [Analytics Whitepapers by Sisense](https://www.sisense.com/whitepapers/)
+
 
 ## ETL, Evolutionary Practices 
 - [Database CI/CD practices using Redshift](https://medium.com/big-data-engineering/redshift-cicd-how-we-did-it-and-why-you-should-do-it-to-e46ecf734eab)
