@@ -51,7 +51,9 @@ Generic Implementation is as follows,
 
 - Event Consumer which uses channels to process events in parallel
 
-{{< gist sachinsu 6fcbc36e6e5cc58c7b5ba9007e276afc >}}
+{{< carbon gistid="6fcbc36e6e5cc58c7b5ba9007e276afc"  >}}
+
+Refer Gist [here](https://gist.github.com/sachinsu/6fcbc36e6e5cc58c7b5ba9007e276afc)
 
 ## Summary 
 Other languages (notably [Channels in Go](https://tour.golang.org/concurrency/2)) have been providing out of the box implementation for in-memory producer with concurrent, parallel consumers. With Channels, .NET Ecosystem finally has construct that can be effectively put to use for high performance, concurrent use cases.

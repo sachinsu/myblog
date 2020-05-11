@@ -39,3 +39,4 @@ Knowledge base around general database related topics.
 
 ## ETL, Evolutionary Practices 
 - [Database CI/CD practices using Redshift](https://medium.com/big-data-engineering/redshift-cicd-how-we-did-it-and-why-you-should-do-it-to-e46ecf734eab)
+- [A Beginner's Guide to Data Engineering - 3-part series](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
