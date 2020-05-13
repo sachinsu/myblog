@@ -28,6 +28,10 @@ Platform where i have spent most time till now.
 - [Know about Threadpool, types of Threads in CLR and changing them to improve performance](https://gist.github.com/JonCole/e65411214030f0d823cb)
 - [Work flow of diagnosing memory performance issues](https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-0/)
 
+## ASP.NET Web forms
+
+- [What not to do in ASP.NET, and what to do instead](https://docs.microsoft.com/en-us/aspnet/aspnet/overview/web-development-best-practices/what-not-to-do-in-aspnet-and-what-to-do-instead#standards)
+
 ## Windows Forms 
 - [Task.run vs. BackgroundWorker](https://blog.stephencleary.com/2013/09/taskrun-vs-backgroundworker-conclusion.html)
 
