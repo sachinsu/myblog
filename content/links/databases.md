@@ -37,6 +37,7 @@ Knowledge base around general database related topics.
 - [Analytics Whitepapers by Sisense](https://www.sisense.com/whitepapers/)
 - [SQL Analytics Training](https://mode.com/sql-tutorial/sql-business-analytics-training/)
 - [A Beginner's Guide to Data Engineering - 3-part series](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+- [Chart types and its usage](https://looker.com/blog/different-types-graphs-charts-uses)
 
 ## ETL, Evolutionary Practices 
 - [Database CI/CD practices using Redshift](https://medium.com/big-data-engineering/redshift-cicd-how-we-did-it-and-why-you-should-do-it-to-e46ecf734eab)
