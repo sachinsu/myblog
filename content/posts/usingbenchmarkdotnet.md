@@ -33,7 +33,7 @@ We will have below before we proceed with using BenchmarkDotNet
 
 * Dummy class that represents Data Structure to be dumped to a file,
 
-`{{< gist sachinsu b2d914a563b49d4dd50a4143166f27ec >}}`
+`{{< carbon gistid="b2d914a563b49d4dd50a4143166f27ec" >}}`
 
 * Class `CardWriter.cs` that generates file using, 
 
@@ -41,11 +41,11 @@ We will have below before we proceed with using BenchmarkDotNet
     * Using Stringbuilder and StreamWriter 
     * Using Open source [CSVHelper](https://joshclose.github.io/CsvHelper/) library
 
-`{{< gist sachinsu b2d914a563b49d4dd50a4143166f27ec "cardwriter.cs">}}`
+`{{< carbon gistid="b2d914a563b49d4dd50a4143166f27ec?filename=CardWriter.cs">}}`
 
 * Now, let us write code to benchmark above functions with Memory Diagnostics,
 
-`{{< gist sachinsu b2d914a563b49d4dd50a4143166f27ec "program.cs">}}`
+`{{< carbon gistid="b2d914a563b49d4dd50a4143166f27ec?filename=Program.cs">}}`
  
  Above code,
  * Class `FileGeneratorBenchmark` - This class uses BenchmarkDotNET attributes to decorate set of functions which in turn call functions from `CardWriter.cs` class. 
