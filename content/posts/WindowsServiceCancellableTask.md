@@ -26,12 +26,16 @@ Accordingly, we will have below Components,
 
 * Listener.cs - It wraps the long running process in a C# Task. It exposes Start and Stop functions which are essentially event handlers awaiting for Signal from the service. 
 
-`{{< gist sachinsu b2869d4f44fe14f439c6f0e60ea2b5d5 "Queuelistener.cs">}}`
+{{< carbon gistid="b2869d4f44fe14f439c6f0e60ea2b5d5?filename=Queuelistener.cs" >}}
 
+Refer Gist [here](https://gist.github.com/sachinsu/b2869d4f44fe14f439c6f0e60ea2b5d5#file-queuelistener-cs)
+ 
 * Program.cs - It configures the startup parameters for the service and initializes it. Using Topshelf, one can easily debug it as Console Application before deploying it as Service.
 
-`{{< gist sachinsu b2869d4f44fe14f439c6f0e60ea2b5d5 "Program.cs">}}`
+{{< carbon gistid="b2869d4f44fe14f439c6f0e60ea2b5d5?filename=Program.cs" >}}
 
+Refer Gist [here](https://gist.github.com/sachinsu/b2869d4f44fe14f439c6f0e60ea2b5d5#file-program-cs)
+ 
 Above Code was targetted at .NET Framework but the same can potentially be used on .NET Core thus targetting both Windows and Linux.
 
 Happy Coding !!
