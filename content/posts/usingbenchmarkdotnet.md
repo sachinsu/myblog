@@ -35,6 +35,8 @@ We will have below before we proceed with using BenchmarkDotNet
 
 `{{< carbon gistid="b2d914a563b49d4dd50a4143166f27ec" >}}`
 
+Refer Gist [here](https://gist.github.com/sachinsu/b2d914a563b49d4dd50a4143166f27ec)
+
 * Class `CardWriter.cs` that generates file using, 
 
     * Using [StreamWriter](https://docs.microsoft.com/en-us/dotnet/api/system.io.streamwriter?view=netcore-3.1) with Buffer
@@ -43,10 +45,14 @@ We will have below before we proceed with using BenchmarkDotNet
 
 `{{< carbon gistid="b2d914a563b49d4dd50a4143166f27ec?filename=CardWriter.cs">}}`
 
+Refer Gist [here](https://gist.github.com/sachinsu/b2d914a563b49d4dd50a4143166f27ec#file-cardwriter-cs)
+
 * Now, let us write code to benchmark above functions with Memory Diagnostics,
 
 `{{< carbon gistid="b2d914a563b49d4dd50a4143166f27ec?filename=Program.cs">}}`
  
+ Refer Gist [here](https://gist.github.com/sachinsu/b2d914a563b49d4dd50a4143166f27ec#file-program-cs)
+
  Above code,
  * Class `FileGeneratorBenchmark` - This class uses BenchmarkDotNET attributes to decorate set of functions which in turn call functions from `CardWriter.cs` class. 
  * Class `Program` - General purpose class with static `main` function that invokes `BenchmarkRunner` to execute benchmarks.
