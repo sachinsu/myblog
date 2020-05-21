@@ -41,7 +41,7 @@ My current Favourite Language
 - [Machinery - Asynchronous task queue/job queue](https://github.com/RichardKnop/machinery)
 - [Bleve - Full text Search Engine](http://blevesearch.com/)
 - [Event Sourcing, pub/sub using AMQP/SQL/Channels](https://github.com/ThreeDotsLabs/watermill)
-
+- [Hydra - OAuth 2.0 Server](https://ory.sh/hydra)
 
 ## Videos, Talks
 - [Best practices for Industrial Programming - by Peter Bourgon](https://www.youtube.com/watch?v=PTE4VJIdHPg)

@@ -15,6 +15,7 @@ draft: false
 - [Using PL/SQL Bulk processing features](https://blogs.oracle.com/oraclemagazine/solving-the-row-by-row-problem)
 - [Auditing tables using Oracle Flashback data archive instead of triggers](https://blogs.oracle.com/oraclemagazine/a-fresh-look-at-auditing-row-changes)
 - [Bulk processing with PL/SQL](https://livesql.oracle.com/apex/livesql/file/tutorial_IEHP37S6LTWIIDQIR436SJ59L.html)
+- [Primer on Oracle Partitioning](https://asktom.oracle.com/partitioning-for-developers.htm)
 
 ## Videos
 - [Real world performance video series](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvwEXdaubc6PQXwnQOAE9h2)

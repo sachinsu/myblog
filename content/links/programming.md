@@ -66,6 +66,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Pipelines/workflow frameworks](https://github.com/pditommaso/awesome-pipeline)
 - [ETL frameworks](https://github.com/pawl/awesome-etl)
 - [Streaming frameworks](https://github.com/manuzhang/awesome-streaming)
+- [Open source API Designer with CI/CD Workflow](https://github.com/Kong/insomnia)
 
 ## Devops/Monitoring
 - [Instrumenting Your Node/Express Application: Viewing Your Data](https://www.influxdata.com/blog/instrumenting-your-node-express-application-viewing-your-data/)
