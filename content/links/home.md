@@ -4,7 +4,7 @@ date: 2020-02-07T11:38:27+05:30
 draft: false
 ---
 
-#### Below is list of Useful links for various technical topics as below, 
+#### Below is list of Curated links for various technical topics, 
 
 - [Awesome](http://awesome.re/) - de-facto repository covering wide range of technical topics.
 - [Awesome List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)

@@ -48,6 +48,7 @@ Platform where i have spent most time till now.
 - [Web API rate limiting](https://github.com/stefanprodan/WebApiThrottle)
 - [Feature Management library for ASP.NET Core](https://github.com/microsoft/FeatureManagement-Dotnet)
 - [GraphQL Server for .NET & .NET Core](https://hotchocolate.io)
+- [General Checklist for Projects](https://github.com/StephenCleary/Docs/blob/master/libraries/README.md)
 
 ## .NET Core
 - [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?WT.mc_id=ondotnet-channel9-cephilli&view=aspnetcore-2.2)

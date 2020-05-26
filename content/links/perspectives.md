@@ -15,3 +15,4 @@ Section covering Business, project/programming perspectives
 - [How to Speak (MIT)](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
 - [What questions should systems architects ask before creating anything](https://medium.com/@budilov/what-questions-should-systems-architects-ask-before-creating-anything-6cd92a01e71b)
 - [Basecamp for Personal Project Management](https://basecamp.com/personal)
+- [Marketing for Engineers - Resources](https://github.com/LisaDziuba/Marketing-for-Engineers)
