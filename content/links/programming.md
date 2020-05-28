@@ -84,6 +84,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Microsoft App Inspector](https://github.com/microsoft/ApplicationInspector)
 - [Google Incident Response Framework](https://grr-doc.readthedocs.io/en/latest/what-is-grr.html)
 - [Dockerfile Best Practices](https://www.docker.com/blog/speed-up-your-development-flow-with-these-dockerfile-best-practices/)
+- [Github Workflow - Test them locally using Act](https://github.com/nektos/act)
 
 ## Distributed messaging, Streams
 - [Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
