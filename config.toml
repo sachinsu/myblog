@@ -1,5 +1,5 @@
 baseurl = "https://sachinsu.github.io"
-title = "SachinSunkle"
+title = "Sachin Sunkle"
 
 theme = "hugo-coder"
 
@@ -16,8 +16,8 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Sachin Sunkle"
-    description = "Sachin Sunkle's personal website"
-    keywords = "blog,developer,personal,golang,dotnetcore,architecture"
+    description = "My Technical Blog"
+    keywords = "blog,developer,personal,golang,dotnetcore,databases,architecture,c#,.net core, Vuejs, Quasar, Oracle"
     info = "Full Stack Developer"
     avatarurl = ""
     footercontent = ""
