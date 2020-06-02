@@ -89,6 +89,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 ## Distributed messaging, Streams
 - [Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
 - [Oracle Advanced Queues](https://www.oracle.com/database/technologies/advanced-queuing.html)
+- [Tim Bray's Blog](https://www.tbray.org/ongoing)
 
 ## Rust
 
