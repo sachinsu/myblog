@@ -60,3 +60,7 @@ As a next step, Plan is to automate deployment of API on Oracle Cloud using OCI 
 - [Adventures in CI/CD [#4]: Deploying A Microservice To The Oracle Cloud With GitHub Actions [OCI CLI Edition]](https://blogs.oracle.com/developers/adventures-in-cicd-4-deploying-a-microservice-to-the-oracle-cloud-with-github-actions-oci-cli-edition)
 
 Happy Coding !!
+
+---
+
+{{< comments >}}

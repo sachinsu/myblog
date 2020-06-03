@@ -68,3 +68,7 @@ References:
 - [Introduction to Benchmarking C# Code with Benchmark .NET](https://www.stevejgordon.co.uk/introduction-to-benchmarking-csharp-code-with-benchmark-dot-net)
 
 Happy Coding !!
+
+---
+
+{{< comments >}}

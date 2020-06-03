@@ -48,7 +48,6 @@ The repository referenced by Steve during presentation is available [here](https
 
 [Vugu](https://www.vugu.org/) is an open source library that allows building a Web front-end in Go using WebAssembly. Generally static binaries are bulky and Vugu has addressed it using [TinyGo](https://tinygo.org) compiler. Vugu is still work in progress but does work great in its current form.  Check out their [getting started](https://www.vugu.org/doc/start) page.
 
-
 ## Summary 
 In nutshell, Concept of WebAssembly provides compelling way to have full stack development in a language of your choice. It remains to be seen how and whether it provides viable alternative to current Javascript driven ecosystem.
 
@@ -56,3 +55,7 @@ In nutshell, Concept of WebAssembly provides compelling way to have full stack d
 [^1]: [Modern Web UI with Blazor](https://channel9.msdn.com/Events/Build/2020/BOD104)
 
 Happy Coding !!
+
+---
+
+{{< comments >}}

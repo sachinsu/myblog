@@ -80,3 +80,7 @@ Below is approach adopted to create usable libraries across .NET framework & .NE
     * Within VS 2015, Goto Nuget Console and install the package created earlier. This [link](https://docs.microsoft.com/en-us/nuget/consume-packages/install-use-packages-visual-studio) has steps to consume local nuget package(s).
 
 Happy Coding !!
+
+---
+
+{{< comments >}}

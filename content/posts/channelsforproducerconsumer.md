@@ -64,3 +64,7 @@ Other languages (notably [Channels in Go](https://tour.golang.org/concurrency/2)
 - [Gist on using Channels](https://gist.github.com/AlgorithmsAreCool/b0960ce8a3400305e43fe8ffdf89b32c)
 
 Happy Coding !!
+
+---
+
+{{< comments >}}
