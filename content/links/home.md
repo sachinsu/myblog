@@ -15,6 +15,7 @@ draft: false
 - [Programming languages](/links/planguages/)
   - [Go](/links/go/)
   - [.NET/C#](/links/dotnet/)
+  - [Python](/links/python)
 - [Databases](/links/databases/)
   - [MySQL](/links/mysql/)
   - [Oracle](/links/oracle/)

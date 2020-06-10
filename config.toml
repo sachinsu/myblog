@@ -12,12 +12,13 @@ canonifyurls = true
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+googleAnalytics = "UA-169012216-1"
 
 
 [params]
     author = "Sachin Sunkle"
     description = "My Technical Blog"
-    keywords = "blog,developer,personal,golang,dotnetcore,databases,architecture,c#,.net core, Vuejs, Quasar, Oracle"
+    keywords = "blog,developer,personal,golang,dotnetcore,databases,architecture,c#,.net core, Vuejs, Quasar, Oracle, python"
     info = "Full Stack Developer"
     avatarurl = ""
     footercontent = ""
