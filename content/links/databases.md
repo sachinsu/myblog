@@ -43,3 +43,5 @@ Knowledge base around general database related topics.
 ## ETL, Evolutionary Practices 
 - [Database CI/CD practices using Redshift](https://medium.com/big-data-engineering/redshift-cicd-how-we-did-it-and-why-you-should-do-it-to-e46ecf734eab)
 - [Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
+- [A Python library for building data applications: ETL, ML, Data Pipelines, and more. ](https://github.com/dagster-io/dagster)
+- [A modern data workflow platform ](https://github.com/prefecthq/prefect)

@@ -98,3 +98,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 ## Nerdy Videos
 
 - [Contalks](https://www.reddit.com/r/ConTalks/)
+
+## Interview Questions
+
+- [10 API Product Manager Interview Questions](https://dzone.com/articles/10-api-product-manager-interview-questions)
