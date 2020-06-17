@@ -17,6 +17,11 @@ draft: false
 - [Bulk processing with PL/SQL](https://livesql.oracle.com/apex/livesql/file/tutorial_IEHP37S6LTWIIDQIR436SJ59L.html)
 - [Primer on Oracle Partitioning](https://asktom.oracle.com/partitioning-for-developers.htm)
 
+### Change Data Capture
+
+- [Nice writeup on options to do CDC in Oracle Database](https://rmoff.net/2018/12/12/streaming-data-from-oracle-into-kafka/)
+- [Integrating Oracle and Kafka](https://talks.rmoff.net/ixPL5r/integrating-oracle-and-kafka)
+
 ## Videos
 - [Real world performance video series](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvwEXdaubc6PQXwnQOAE9h2)
 - [How to:Analyze AWR Report](https://www.youtube.com/watch?v=xSXQ3EwU8t0)

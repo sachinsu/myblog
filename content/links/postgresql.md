@@ -28,3 +28,7 @@ draft: false
 - [Tuning PostgreSQL for High Write Throughput](https://www.slideshare.net/GrantMcAlister/tuning-postgresql-for-high-write-throughput)
 - [Postgres is a great pub/sub & job server](https://layerci.com/blog/postgres-is-the-answer/)
 - [PostgreSQL - Optimize Configuration](https://postgresqlco.nf/en/doc/param/)
+
+## Interesting Extensions/Products
+
+- [Incrementally update Materialized Views in real-time using Materialize](https://materialize.io/)
