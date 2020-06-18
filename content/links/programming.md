@@ -61,6 +61,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Keycloak - Open source Identity and Access Management](https://www.keycloak.org)
 - [Awk in 20 minutes](https://ferd.ca/awk-in-20-minutes.html)
 - [Diagram as Code (Python)](https://diagrams.mingrammer.com/)
+- [Virtual whiteboard for sketching hand-drawn like diagrams with Collaboration](https://excalidraw.com)
 
 ## Open source Pipelining, workflows 
 - [Pipelines/workflow frameworks](https://github.com/pditommaso/awesome-pipeline)
