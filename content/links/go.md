@@ -43,6 +43,11 @@ My current Favourite Language
 - [Event Sourcing, pub/sub using AMQP/SQL/Channels](https://github.com/ThreeDotsLabs/watermill)
 - [Hydra - OAuth 2.0 Server](https://ory.sh/hydra)
 
+## Web scraping, downloader 
+
+- [Elegant Scraper and Crawler Framework for Golang](https://github.com/gocolly/colly)
+- [Fast, simple and clean video downloader ](https://github.com/iawia002/annie)
+
 ## Videos, Talks
 - [Best practices for Industrial Programming - by Peter Bourgon](https://www.youtube.com/watch?v=PTE4VJIdHPg)
 - [Profiling & Optimizing in Go](https://github.com/bradfitz/talk-yapc-asia-2015/blob/master/talk.md)

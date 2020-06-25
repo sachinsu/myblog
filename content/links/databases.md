@@ -26,6 +26,7 @@ Knowledge base around general database related topics.
 - [MySQL Sharding at Quora](https://www.quora.com/q/quoraengineering/MySQL-sharding-at-Quora?share=1)
 - [Interactive Book about SQL](https://selectstarsql.com/)
 - [SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
+- [Hadoop or Laptop](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/)
 
 ## Services and Offerings
 

@@ -11,6 +11,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 ## Architectural Case studies 
 - [Temenos Serverless banking at Scale @ AWS using CQRS leveraging RDS and DynamoDB](https://www.youtube.com/watch?v=mtZvA7ARepM)
 - [Temenos @ AWS Architecture Diagrams](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/Temenos-on-aws.pdf?did=wp_card&trk=wp_card)
+- [Architecture for Generations](https://increment.com/software-architecture/architecture-for-generations/)
 
 ## Strategies/Approaches
 - [Strategies for Working with Message Queues ](http://www.doxsey.net/blog/strategies-for-working-with-message-queues)
@@ -27,6 +28,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Ready for changes with Hexagonal Architecture](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 - [How to fix Overloaded Web server](https://web.dev/overloaded-server/)
 - [How gov.uk reliably sends SMS messages using multiple providers](https://gds.blog.gov.uk/2020/04/03/how-gov-uk-notify-reliably-sends-text-messages-to-users/)
+- [Teach yourself Computer Science](https://teachyourselfcs.com/)
 
 ## Distributed Systems
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
@@ -40,7 +42,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 ## Automation 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
 - [Four bad ways to use RPA](https://www.thoughtworks.com/insights/articles/four-bad-ways-use-rpa?utm_campaign=ping-jun19&utm_medium=email&utm_source=marketo)
-
+- [Data Science at the Command line](https://www.datascienceatthecommandline.com)
 
 ## Tools, Libraries
 - [Awesome Design tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
@@ -62,12 +64,14 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Awk in 20 minutes](https://ferd.ca/awk-in-20-minutes.html)
 - [Diagram as Code (Python)](https://diagrams.mingrammer.com/)
 - [Virtual whiteboard for sketching hand-drawn like diagrams with Collaboration](https://excalidraw.com)
+- [NSQ - a realtime distributed messaging platform designed to operate at scale](https://nsq.io)
 
 ## Open source Pipelining, workflows 
 - [Pipelines/workflow frameworks](https://github.com/pditommaso/awesome-pipeline)
 - [ETL frameworks](https://github.com/pawl/awesome-etl)
 - [Streaming frameworks](https://github.com/manuzhang/awesome-streaming)
 - [Open source API Designer with CI/CD Workflow](https://github.com/Kong/insomnia)
+
 
 ## Devops/Monitoring
 - [Instrumenting Your Node/Express Application: Viewing Your Data](https://www.influxdata.com/blog/instrumenting-your-node-express-application-viewing-your-data/)
@@ -91,6 +95,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
 - [Oracle Advanced Queues](https://www.oracle.com/database/technologies/advanced-queuing.html)
 - [Tim Bray's Blog](https://www.tbray.org/ongoing)
+- [Instrumenting distributed systems for operational visibility](https://aws.amazon.com/builders-library/instrumenting-distributed-systems-for-operational-visibility/?did=ba_card&trk=ba_card)
 
 ## Rust
 
