@@ -28,6 +28,7 @@ Platform where i have spent most time till now.
 - [C# Job Queues with TPL Dataflow and Failure Handling](https://michaelscodingspot.com/c-job-queues-part-3-with-tpl-dataflow-and-failure-handling/)
 - [Know about Threadpool, types of Threads in CLR and changing them to improve performance](https://gist.github.com/JonCole/e65411214030f0d823cb)
 - [Work flow of diagnosing memory performance issues](https://devblogs.microsoft.com/dotnet/work-flow-of-diagnosing-memory-performance-issues-part-0/)
+- [***Contention, poor performance, and deadlocks when you make calls to Web services from an ASP.NET application](https://support.microsoft.com/en-us/help/821268/contention-poor-performance-and-deadlocks-when-you-make-calls-to-web-s)
 
 ## ASP.NET Web forms
 

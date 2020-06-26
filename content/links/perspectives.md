@@ -16,3 +16,4 @@ Section covering Business, project/programming perspectives
 - [What questions should systems architects ask before creating anything](https://medium.com/@budilov/what-questions-should-systems-architects-ask-before-creating-anything-6cd92a01e71b)
 - [Basecamp for Personal Project Management](https://basecamp.com/personal)
 - [Marketing for Engineers - Resources](https://github.com/LisaDziuba/Marketing-for-Engineers)
+- [Approach to Exception Handling](https://particular.net/blog/but-all-my-errors-are-severe)

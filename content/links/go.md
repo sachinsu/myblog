@@ -37,6 +37,9 @@ My current Favourite Language
 - [Go Concurrency - Singleflight, Bounded concurrency, Weighted bounded concurrency](https://encore.dev/blog/advanced-go-concurrency)
 
 ## Libraries, Tools
+
+- [Right way to check weather](https://github.com/chubin/wttr.in)
+
 ### Task queues
 - [Machinery - Asynchronous task queue/job queue](https://github.com/RichardKnop/machinery)
 - [Bleve - Full text Search Engine](http://blevesearch.com/)
