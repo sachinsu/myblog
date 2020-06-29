@@ -4,8 +4,6 @@ date: 2020-02-12T10:25:04+05:30
 draft: false
 ---
 
-# Using Channels to implement Producer Consumer pattern
-
 ## Background
 Recently, i got involved in assignment where in  an application was facing issues with throughput. Expectation is to support more than 500 transactions per second while load testing results were indicating system was experiencing high latency beyond 100+ transactions per second.
 

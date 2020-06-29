@@ -4,8 +4,6 @@ date: 2020-02-07T10:25:04+05:30
 draft: false
 ---
 
-# Using .NET standard Assembly in both .NET core and .NET Framework
-
 ## Background
 One of the key project(s) at my current organization is developed on .NET 4.6.1. It is developed as [Modular Monolith](https://www.youtube.com/watch?v=5OjqD-ow8GE). As part of it's functionality, it supports different channels like Mobiles, Terminals and Web. For the *Web* channel, there was need to develop a Web application with,
 * High availability

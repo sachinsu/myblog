@@ -1,15 +1,14 @@
 baseurl = "https://sachinsu.github.io"
 title = "Sachin Sunkle"
 
-theme = "hugo-coder"
-
-languagecode = "en"
+theme = "hello-friend-ng"
+languageCode = "en-us"
 defaultcontentlanguage = "en"
 
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "b2"
+pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 googleAnalytics = "UA-169012216-1"
@@ -17,13 +16,17 @@ googleAnalytics = "UA-169012216-1"
 
 [params]
     author = "Sachin Sunkle"
-    description = "My Technical Blog"
+    description = "A simple technical blog"
+    homeSubtitle = "A simple technical blog"
     keywords = "blog,developer,personal,golang,dotnetcore,databases,architecture,c#,.net core, Vuejs, Quasar, Oracle, python"
-    info = "Full Stack Developer"
+    info = "Full stack Software Engineer"
     avatarurl = ""
     footercontent = ""
 
     dateformat = "January 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02 15:04 -0700"
 
     hideCredits = false
     hideCopyright = false
@@ -34,12 +37,7 @@ googleAnalytics = "UA-169012216-1"
 
     rtl = false
 
-    # Specify light/dark colorscheme
-    # Supported values:
-    # "auto" (use preference set by browser)
-    # "dark" (dark background, light foreground)
-    # "light" (light background, dark foreground) (default)
-    colorscheme = "auto"
+    defaultTheme = "light"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -50,28 +48,37 @@ googleAnalytics = "UA-169012216-1"
     # Custom JS
     custom_js = []
 
+[params.logo]
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+    
 [taxonomies]
-  category = "categories"
+  category = "blog"
   series = "series"
   tag = "tags"
 
+[params.favicon.color]
+  mask = "#252627"
+  msapplication = "#252627"
+  theme = "#252627"
+
 [[params.social]]
-    name = "Github"
+    name = "github"
     icon = "fab fa-github"
     weight = 1
     url = "https://github.com/sachinsu/"
 [[params.social]]
-    name = "Twitter"
+    name = "twitter"
     icon = "fab fa-twitter"
     weight = 3
     url = "https://twitter.com/SachinS3012"
 [[params.social]]
-    name = "LinkedIn"
+    name = "linkedin"
     icon = "fab fa-linkedin"
     weight = 4
     url = "https://in.linkedin.com/in/sachinsunkle"
 [[params.social]]
-    name = "RSS"
+    name = "rss"
     icon = "fas fa-rss"
     weight = 6
     url = "https://sachinsu.github.io/index.xml"

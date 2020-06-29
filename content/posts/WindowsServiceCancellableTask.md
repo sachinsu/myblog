@@ -4,9 +4,7 @@ date: 2020-05-05T12:25:04+05:30
 draft: false
 ---
 
-# Windows Service/Daemon with Long running, Cancelable task 
-
-## Background
+### Background
 Recently, we had requirement wherein a process should, 
  
  * Periodically (Poll) or Asynchronously (Pub-sub) listen on incoming requests/messages. The whole process is expected to be long running.
@@ -16,7 +14,7 @@ Recently, we had requirement wherein a process should,
 
  Lets get Started,
 
- ## Approach
+### Approach
 
 We can use below to construct service, 
  * [Topshelf](http://topshelf-project.com/) - Allows Hosting  services in-process as console apps or Windows services. 

@@ -65,6 +65,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Diagram as Code (Python)](https://diagrams.mingrammer.com/)
 - [Virtual whiteboard for sketching hand-drawn like diagrams with Collaboration](https://excalidraw.com)
 - [NSQ - a realtime distributed messaging platform designed to operate at scale](https://nsq.io)
+- [Syncthing - Free, OSS, File synchronization across devices](https://syncthing.net/)
 
 ## Open source Pipelining, workflows 
 - [Pipelines/workflow frameworks](https://github.com/pditommaso/awesome-pipeline)
@@ -72,6 +73,9 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Streaming frameworks](https://github.com/manuzhang/awesome-streaming)
 - [Open source API Designer with CI/CD Workflow](https://github.com/Kong/insomnia)
 
+## Security 
+- [Web Application Security Testing](https://danielmiessler.com/projects/webappsec_testing_resources/)
+- [OWASP API Security Top 10](https://apisecurity.io/encyclopedia/content/owasp/owasp-api-security-top-10.htm)
 
 ## Devops/Monitoring
 - [Instrumenting Your Node/Express Application: Viewing Your Data](https://www.influxdata.com/blog/instrumenting-your-node-express-application-viewing-your-data/)
@@ -80,7 +84,6 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Tracing, Fast and Slow – roguelynn](https://www.roguelynn.com/words/tracing-fast-and-slow/)
 - [Metrics, tracing, and logging](https://peter.bourgon.org/blog/2017/02/21/metrics-tracing-and-logging.html)
 - [How to Create and Manage CRON Jobs](https://davidwalsh.name/cron-job)
-- [Web Application Security Testing](https://danielmiessler.com/projects/webappsec_testing_resources/)
 - [lazydocker - Docker mgmt tool for linux](https://danielmiessler.com/projects/webappsec_testing_resources/)
 - [Evolutionary Database Design](https://www.martinfowler.com/articles/evodb.html#AllDatabaseArtifactsAreVersionControlledWithApplicationCode)
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)

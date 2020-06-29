@@ -4,8 +4,6 @@ date: 2020-05-05T10:25:04+05:30
 draft: false
 ---
 
-# Benchmarking .NET code 
-
 ## Background
 Oftentimes, we come across situation where code does not perform as per expectation. What is typically approch to address it,
 

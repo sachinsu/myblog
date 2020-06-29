@@ -35,6 +35,7 @@ My current Favourite Language
 - [Continuous Profiling of Go programs](https://medium.com/google-cloud/continuous-profiling-of-go-programs-96d4416af77b)
 - [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years)
 - [Go Concurrency - Singleflight, Bounded concurrency, Weighted bounded concurrency](https://encore.dev/blog/advanced-go-concurrency)
+- [Why you should be using errgroup withcontext in Golang](https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/)
 
 ## Libraries, Tools
 
