@@ -16,6 +16,7 @@ draft: false
 - [Auditing tables using Oracle Flashback data archive instead of triggers](https://blogs.oracle.com/oraclemagazine/a-fresh-look-at-auditing-row-changes)
 - [Bulk processing with PL/SQL](https://livesql.oracle.com/apex/livesql/file/tutorial_IEHP37S6LTWIIDQIR436SJ59L.html)
 - [Primer on Oracle Partitioning](https://asktom.oracle.com/partitioning-for-developers.htm)
+- [Database Core performance principles - Deck](https://www.slideshare.net/koppelaars/database-core-performance-principles)
 
 ### Change Data Capture
 
@@ -27,3 +28,4 @@ draft: false
 - [How to:Analyze AWR Report](https://www.youtube.com/watch?v=xSXQ3EwU8t0)
 - [5 Minutes Demo: Using Liquibase in SQLcl to version Oracle Database](https://www.thatjeffsmith.com/archive/2020/02/5-minutes-demo-using-liquibase-in-sqlcl-to-version-oracle-database/)
 - [Analytic SQL for Developers - Free course](https://devgym.oracle.com/pls/apex/dg/class/analytic-sql-for-developers.html)
+- [Connection Pooling and SmartDB](https://www.youtube.com/watch?v=eiydITTdDAQ)

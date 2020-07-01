@@ -27,6 +27,7 @@ Knowledge base around general database related topics.
 - [Interactive Book about SQL](https://selectstarsql.com/)
 - [SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
 - [Hadoop or Laptop](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/)
+- [The lightweight, distributed relational database built on SQLite](www.rqlite.com)
 
 ## Services and Offerings
 
@@ -40,9 +41,14 @@ Knowledge base around general database related topics.
 - [A Beginner's Guide to Data Engineering - 3-part series](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 - [Chart types and its usage](https://looker.com/blog/different-types-graphs-charts-uses)
 - [Rudder - Open source Customer Data Infrastructure](https://rudderstack.com/)
+- [DuckDB - Embeddable OLAP DBMS](https://duckdb.org/)
+
 
 ## ETL, Evolutionary Practices 
 - [Database CI/CD practices using Redshift](https://medium.com/big-data-engineering/redshift-cicd-how-we-did-it-and-why-you-should-do-it-to-e46ecf734eab)
 - [Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
 - [A Python library for building data applications: ETL, ML, Data Pipelines, and more. ](https://github.com/dagster-io/dagster)
 - [A modern data workflow platform ](https://github.com/prefecthq/prefect)
+- [Databus - Change Data capture System from Linkedin](https://github.com/linkedin/databus)
+- [Dolt - Git for Data](https://github.com/liquidata-inc/dolt)
+- [GridDB - next generation database for IoT & big data with both NoSQL interface & SQL Interface.](https://griddb.org)

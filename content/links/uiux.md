@@ -15,3 +15,8 @@ draft: false
 
 -[Comparing Polling vs WebSockets vs SSE](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
 - [A simple, choice-driven chatbot framework with Vanilla Javascript](https://github.com/peekobot/peekobot)
+
+## Testing
+
+- [OSS Load and Functional testing tool](https://artillery.io/)
+- [Puppeteer - Testing using Headless Chrome Nodejs API](https://pptr.dev)

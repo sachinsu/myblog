@@ -28,7 +28,12 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Ready for changes with Hexagonal Architecture](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 - [How to fix Overloaded Web server](https://web.dev/overloaded-server/)
 - [How gov.uk reliably sends SMS messages using multiple providers](https://gds.blog.gov.uk/2020/04/03/how-gov-uk-notify-reliably-sends-text-messages-to-users/)
+- [Rule of thumbs for Architecture Scalability](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9)
+
+## Training
+
 - [Teach yourself Computer Science](https://teachyourselfcs.com/)
+
 
 ## Distributed Systems
 - [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
@@ -45,6 +50,8 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Data Science at the Command line](https://www.datascienceatthecommandline.com)
 
 ## Tools, Libraries
+
+- [Six things I wish we had known about scaling](https://martin.kleppmann.com/2014/03/26/six-things-about-scaling.html)
 - [Awesome Design tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 - [Regex Repository](https://ihateregex.io/)
 - [SpiderFoot, the most complete OSINT collection and reconnaissance tool](https://github.com/smicallef/spiderfoot)
