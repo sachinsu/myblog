@@ -24,8 +24,13 @@ draft: false
 - [Integrating Oracle and Kafka](https://talks.rmoff.net/ixPL5r/integrating-oracle-and-kafka)
 
 ## Videos
+
 - [Real world performance video series](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvwEXdaubc6PQXwnQOAE9h2)
 - [How to:Analyze AWR Report](https://www.youtube.com/watch?v=xSXQ3EwU8t0)
 - [5 Minutes Demo: Using Liquibase in SQLcl to version Oracle Database](https://www.thatjeffsmith.com/archive/2020/02/5-minutes-demo-using-liquibase-in-sqlcl-to-version-oracle-database/)
 - [Analytic SQL for Developers - Free course](https://devgym.oracle.com/pls/apex/dg/class/analytic-sql-for-developers.html)
 - [Connection Pooling and SmartDB](https://www.youtube.com/watch?v=eiydITTdDAQ)
+
+## Utilities, Tools
+
+- [OraTOTP, Free tool to enable 2 factor authentication](https://www.dbarj.com.br/en/oratotp-oracle-time-based-one-time-password/)

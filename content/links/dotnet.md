@@ -61,6 +61,7 @@ Platform where i have spent most time till now.
 - [An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
 - [Working with Channels With Stephen Toub](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET?WT.mc_id=ondotnet-c9-cephilli)
 - [BackgroundService Gotcha: Application Lifetime](https://blog.stephencleary.com/2020/06/backgroundservice-gotcha-application-lifetime.html)
+- [AWS Porting Assistant for .NET](https://aws.amazon.com/blogs/aws/announcing-the-porting-assistant-for-net/)
 
 ## Twitter Handles
 
