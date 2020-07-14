@@ -17,6 +17,10 @@ Python has become pervasive all throught Data Science be it Machine learning, De
 - [A quick-and-dirty guide on how to install packages for Python](https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/)
 
 
+## Packages
+
+- [EasyOCR - supports 40+ languages](https://github.com/JaidedAI/EasyOCR)
+
 ## Podcasts
 
 - [Talkpython](https://talkpython.fm/episodes/all)

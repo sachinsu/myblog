@@ -30,6 +30,7 @@ draft: false
 - [Redis Cluster](https://alex.dzyoba.com/blog/redis-cluster/)
 - [KeyDB is a high performance fork of Redis with a focus on multithreading, memory efficiency, and high throughput. In addition to multithreading](https://keydb.dev/)
 - [RediSQL, fastest, simplest, in-memory SQL](https://redisql.com)
+- [Redisearch - Redis powered Search Engine](https://oss.redislabs.com/redisearch/)
 
 ## Oracle Coherence
 

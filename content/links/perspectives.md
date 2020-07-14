@@ -17,3 +17,4 @@ Section covering Business, project/programming perspectives
 - [Basecamp for Personal Project Management](https://basecamp.com/personal)
 - [Marketing for Engineers - Resources](https://github.com/LisaDziuba/Marketing-for-Engineers)
 - [Approach to Exception Handling](https://particular.net/blog/but-all-my-errors-are-severe)
+- [PRESALES (SE) LEADER? 10 THINGS YOU MUST BE DOING](https://www.linkedin.com/pulse/presales-se-leader-10-things-you-must-doing-jon-upton?articleId=6685231165948932097#comments-6685231165948932097&trk=public_profile_article_view)
