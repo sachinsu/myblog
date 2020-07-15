@@ -7,8 +7,7 @@ draft: false
 #### Below is list of Curated links for various technical topics,
 
 - [Awesome](http://awesome.re/) - de-facto repository covering wide range of technical topics.
-- [Awesome List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
-- [Collection of online learning resources](https://stackoverflow.blog/2020/04/27/build-your-technical-skills-at-home-with-online-learning/)
+- [Online Learning](/links/onlearn/)
 - [Perspectives](/links/perspectives/)
 - [Concepts, Strategies etc.](/links/programming/)
 - [Testing](/links/testing/)
