@@ -24,7 +24,9 @@ draft: false
   - [NoSQL](/links/nosql/)
 - Cloud
   - [AWS](/links/aws/)
+- [General Purpose tools](/links/tools/)
   
-#### Must follow Community Sites 
+#### Must follow Community Sites
+
 - [Hacker news](https://news.ycombinator.com)
 - [Lobsters](https://lobste.rs)

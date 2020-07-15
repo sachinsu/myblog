@@ -17,6 +17,7 @@ draft: false
 - [Bulk processing with PL/SQL](https://livesql.oracle.com/apex/livesql/file/tutorial_IEHP37S6LTWIIDQIR436SJ59L.html)
 - [Primer on Oracle Partitioning](https://asktom.oracle.com/partitioning-for-developers.htm)
 - [Database Core performance principles - Deck](https://www.slideshare.net/koppelaars/database-core-performance-principles)
+- [Database insert & referential integrity - Performance](https://dev.to/gvenzl/comment/12137)
 
 ### Change Data Capture
 

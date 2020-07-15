@@ -110,6 +110,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 ## Rust
 
 - [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)
+- [Tour of Rust](https://tourofrust.com/)
 
 ## Nerdy Videos
 
