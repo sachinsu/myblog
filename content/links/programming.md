@@ -29,6 +29,8 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [How to fix Overloaded Web server](https://web.dev/overloaded-server/)
 - [How gov.uk reliably sends SMS messages using multiple providers](https://gds.blog.gov.uk/2020/04/03/how-gov-uk-notify-reliably-sends-text-messages-to-users/)
 - [Rule of thumbs for Architecture Scalability](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9)
+- [Benefits of Message Queues](https://aws.amazon.com/message-queue/benefits/)
+- [Reasons to use Message Queues](https://stackify.com/message-queues-12-reasons/)
 
 ## Training
 
@@ -42,6 +44,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Class materials for a distributed systems lecture series](https://github.com/aphyr/distsys-class)
 - [Containers - Training resources](https://container.training/)
 - [Trying out durable, replicated quorum queues in RabbitMQ](https://seroter.com/2020/01/28/lets-try-out-the-new-durable-replicated-quorum-queues-in-rabbitmq/)
+- [Distrivbuted Systems Cheat Sheet](http://dimafeng.com/2016/12/04/distributed-systems/)
 
 
 ## Automation 
