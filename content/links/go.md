@@ -4,11 +4,11 @@ date: 2020-02-07T14:13:27+05:30
 draft: false
 ---
 
-# Go Language
+## Go Language
 
 My current Favourite Language
 
-# Articles, E-books
+### Articles, E-books
 - [High performance GO Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#welcome)
 - [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook)
 - [Effective Go](https://golang.org/doc/effective_go.html)
@@ -36,23 +36,27 @@ My current Favourite Language
 - [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years)
 - [Go Concurrency - Singleflight, Bounded concurrency, Weighted bounded concurrency](https://encore.dev/blog/advanced-go-concurrency)
 - [Why you should be using errgroup withcontext in Golang](https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/)
+- [WebAssembly in Go](https://dstoiko.github.io/posts/go-pong-wasm/)
+- [gRPC in Go](https://talks.golang.org/2015/gotham-grpc.slide)
 
-## Libraries, Tools
+### Libraries, Tools
 
 - [Right way to check weather](https://github.com/chubin/wttr.in)
 
 ### Task queues
+
 - [Machinery - Asynchronous task queue/job queue](https://github.com/RichardKnop/machinery)
 - [Bleve - Full text Search Engine](http://blevesearch.com/)
 - [Event Sourcing, pub/sub using AMQP/SQL/Channels](https://github.com/ThreeDotsLabs/watermill)
 - [Hydra - OAuth 2.0 Server](https://ory.sh/hydra)
 
-## Web scraping, downloader 
+### Web scraping, downloader 
 
 - [Elegant Scraper and Crawler Framework for Golang](https://github.com/gocolly/colly)
 - [Fast, simple and clean video downloader ](https://github.com/iawia002/annie)
 
-## Videos, Talks
+### Videos, Talks
+
 - [Best practices for Industrial Programming - by Peter Bourgon](https://www.youtube.com/watch?v=PTE4VJIdHPg)
 - [Profiling & Optimizing in Go](https://github.com/bradfitz/talk-yapc-asia-2015/blob/master/talk.md)
 - [Rethinking classical Concurrency patterns](https://www.youtube.com/watch?v=5zXAHh5tJqQ&feature=emb_logo)
@@ -63,8 +67,10 @@ My current Favourite Language
 - [Zen of Go - Ten engineering values for writing simple, readable, maintainable Go code](https://the-zen-of-go.netlify.com/)
 - [Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)
 
-## Code snippets
+### Code snippets
+
 - [Remote service with Retries](https://play.golang.org/p/3mNhCTl01bX)
 
-## Podcasts
+### Podcasts
+
 - [Go Time](https://changelog.com/gotime)

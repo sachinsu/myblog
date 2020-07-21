@@ -28,6 +28,7 @@ Knowledge base around general database related topics.
 - [SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
 - [Hadoop or Laptop](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/)
 - [The lightweight, distributed relational database built on SQLite](www.rqlite.com)
+- [Optimizing SQL Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1#635a)
 
 ## Services and Offerings
 
