@@ -29,6 +29,8 @@ Knowledge base around general database related topics.
 - [Hadoop or Laptop](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/)
 - [The lightweight, distributed relational database built on SQLite](www.rqlite.com)
 - [Optimizing SQL Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1#635a)
+- [How to do Data Modelling the right way](https://erwin.com/blog/how-to-do-data-modeling-the-right-way/)
+- [Primer on Database Replication](https://www.brianstorti.com/replication/)
 
 ## Services and Offerings
 
@@ -43,6 +45,7 @@ Knowledge base around general database related topics.
 - [Chart types and its usage](https://looker.com/blog/different-types-graphs-charts-uses)
 - [Rudder - Open source Customer Data Infrastructure](https://rudderstack.com/)
 - [DuckDB - Embeddable OLAP DBMS](https://duckdb.org/)
+- [Data Lake - Solution Patterns](https://blogs.oracle.com/bigdata/data-lake-solution-patterns-use-cases)
 
 
 ## ETL, Evolutionary Practices 
