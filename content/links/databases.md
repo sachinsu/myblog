@@ -31,6 +31,7 @@ Knowledge base around general database related topics.
 - [Optimizing SQL Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1#635a)
 - [How to do Data Modelling the right way](https://erwin.com/blog/how-to-do-data-modeling-the-right-way/)
 - [Primer on Database Replication](https://www.brianstorti.com/replication/)
+- [Connection pool sizing for databases](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 
 ## Services and Offerings
 
@@ -46,6 +47,7 @@ Knowledge base around general database related topics.
 - [Rudder - Open source Customer Data Infrastructure](https://rudderstack.com/)
 - [DuckDB - Embeddable OLAP DBMS](https://duckdb.org/)
 - [Data Lake - Solution Patterns](https://blogs.oracle.com/bigdata/data-lake-solution-patterns-use-cases)
+- [Catalog of Widgets for Data Visualization](https://datavizcatalogue.com/search/time.html)
 
 
 ## ETL, Evolutionary Practices 

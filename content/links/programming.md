@@ -12,6 +12,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Temenos Serverless banking at Scale @ AWS using CQRS leveraging RDS and DynamoDB](https://www.youtube.com/watch?v=mtZvA7ARepM)
 - [Temenos @ AWS Architecture Diagrams](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/Temenos-on-aws.pdf?did=wp_card&trk=wp_card)
 - [Architecture for Generations](https://increment.com/software-architecture/architecture-for-generations/)
+- [Uber's Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 
 ## Strategies/Approaches
 - [Strategies for Working with Message Queues ](http://www.doxsey.net/blog/strategies-for-working-with-message-queues)
@@ -31,6 +32,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Rule of thumbs for Architecture Scalability](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9)
 - [Benefits of Message Queues](https://aws.amazon.com/message-queue/benefits/)
 - [Reasons to use Message Queues](https://stackify.com/message-queues-12-reasons/)
+- [About Structure of Design document](https://www.industrialempathy.com/posts/design-docs-at-google/)
 
 ## Training
 
@@ -103,6 +105,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Google Incident Response Framework](https://grr-doc.readthedocs.io/en/latest/what-is-grr.html)
 - [Dockerfile Best Practices](https://www.docker.com/blog/speed-up-your-development-flow-with-these-dockerfile-best-practices/)
 - [Github Workflow - Test them locally using Act](https://github.com/nektos/act)
+- [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/)
 
 ## Distributed messaging, Streams
 - [Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
