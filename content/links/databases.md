@@ -58,3 +58,8 @@ Knowledge base around general database related topics.
 - [Databus - Change Data capture System from Linkedin](https://github.com/linkedin/databus)
 - [Dolt - Git for Data](https://github.com/liquidata-inc/dolt)
 - [GridDB - next generation database for IoT & big data with both NoSQL interface & SQL Interface.](https://griddb.org)
+
+## Database Migration Practices
+
+- [Stripe - Database Online migration at scale using dual writes](https://stripe.com/blog/online-migrations)
+- [How big companies migrate from one database to another without losing data i.e database independent?](https://www.quora.com/How-big-companies-migrate-from-one-database-to-another-without-losing-data-i-e-database-independent/answer/Siddharth-Anand)
