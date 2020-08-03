@@ -10,4 +10,3 @@ Section covering resources for  Online learning etc.
 - [Exploring basics of Distributed Systems](https://medium.com/baseds)
 - [Awesome List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
 - [Collection of online learning resources](https://stackoverflow.blog/2020/04/27/build-your-technical-skills-at-home-with-online-learning/)
-

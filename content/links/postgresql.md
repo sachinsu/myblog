@@ -30,7 +30,7 @@ draft: false
 - [Tuning PostgreSQL for High Write Throughput](https://www.slideshare.net/GrantMcAlister/tuning-postgresql-for-high-write-throughput)
 - [Postgres is a great pub/sub & job server](https://layerci.com/blog/postgres-is-the-answer/)
 - [PostgreSQL - Optimize Configuration](https://postgresqlco.nf/en/doc/param/)
-- [Some SQL tricks from Application DBA](https://hakibenita.com/sql-tricks-application-dba)
+/9275132/real-life-example-when-to-use-outer-cross-apply-in-sql/9275865#9275865)
 - [Be careful with CTE in PostgreSQL](https://hakibenita.com/be-careful-with-cte-in-postgre-sql)
 
 ## Interesting Extensions/Products

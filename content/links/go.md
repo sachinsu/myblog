@@ -38,6 +38,7 @@ My current Favourite Language
 - [Why you should be using errgroup withcontext in Golang](https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/)
 - [WebAssembly in Go](https://dstoiko.github.io/posts/go-pong-wasm/)
 - [gRPC in Go](https://talks.golang.org/2015/gotham-grpc.slide)
+- [Go: Discovery of the Trace Package](https://medium.com/a-journey-with-go/go-discovery-of-the-trace-package-e5a821743c3c)
 
 ### Libraries, Tools
 

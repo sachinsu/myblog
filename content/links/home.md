@@ -23,6 +23,8 @@ draft: false
   - [NoSQL](/links/nosql/)
 - Cloud
   - [AWS](/links/aws/)
+- AI, Machine Learning
+  - [Machine Learning](/links/aiml/)
 - [General Purpose tools](/links/tools/)
   
 #### Must follow Community Sites

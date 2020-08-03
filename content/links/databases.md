@@ -32,6 +32,8 @@ Knowledge base around general database related topics.
 - [How to do Data Modelling the right way](https://erwin.com/blog/how-to-do-data-modeling-the-right-way/)
 - [Primer on Database Replication](https://www.brianstorti.com/replication/)
 - [Connection pool sizing for databases](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
+- [Some SQL tricks from Application DBA](https://hakibenita.com/sql-tricks-application-dba)
+- [Using Outer/Cross Apply in SQL](https://stackoverflow.com/questions)
 
 ## Services and Offerings
 
@@ -63,3 +65,4 @@ Knowledge base around general database related topics.
 
 - [Stripe - Database Online migration at scale using dual writes](https://stripe.com/blog/online-migrations)
 - [How big companies migrate from one database to another without losing data i.e database independent?](https://www.quora.com/How-big-companies-migrate-from-one-database-to-another-without-losing-data-i-e-database-independent/answer/Siddharth-Anand)
+- [Data Discovery at Shopify](https://engineering.shopify.com/blogs/engineering/solving-data-discovery-challenges-shopify)
