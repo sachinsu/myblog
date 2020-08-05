@@ -21,6 +21,8 @@ draft: false
 - [Database insert & referential integrity - Performance](https://dev.to/gvenzl/comment/12137)
 - [On Connection Pools, Cursor Differentiation, and Optimal Ordering](https://blogs.oracle.com/oraclemagazine/on-connection-pools-cursor-differentiation-and-optimal-ordering)
 - [Analytical Functions Overview](https://blogs.oracle.com/oraclemagazine/a-window-into-the-world-of-analytic-functions)
+- [About Materialized Views](https://livesql.oracle.com/apex/livesql/file/tutorial_JN0Y98523UQ6VVZRREWOVZUT9.html)
+- [How to find Slow SQL](https://livesql.oracle.com/apex/livesql/file/tutorial_JN0XQTKBU5D2JMNDVMTRQCFIE.html)
 
 ### Change Data Capture
 
@@ -37,6 +39,8 @@ draft: false
 - [Oracle Database for Developers - Training](https://asktom.oracle.com/databases-for-developers.htm)
 - [How to Create an Execution plan?](https://blogs.oracle.com/sql/how-to-create-an-execution-plan)
 
+
 ### Utilities, Tools
 
 - [OraTOTP, Free tool to enable 2 factor authentication](https://www.dbarj.com.br/en/oratotp-oracle-time-based-one-time-password/)
+- [Audit table Generator for Oracle Tables](https://github.com/connormcd/audit_utility)
