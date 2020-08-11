@@ -23,6 +23,7 @@ draft: false
 - [Analytical Functions Overview](https://blogs.oracle.com/oraclemagazine/a-window-into-the-world-of-analytic-functions)
 - [About Materialized Views](https://livesql.oracle.com/apex/livesql/file/tutorial_JN0Y98523UQ6VVZRREWOVZUT9.html)
 - [How to find Slow SQL](https://livesql.oracle.com/apex/livesql/file/tutorial_JN0XQTKBU5D2JMNDVMTRQCFIE.html)
+- [Using External Tables and Table Clusters in Oracle](https://blogs.oracle.com/sql/how-to-create-alter-and-drop-tables-in-sql#create-external)
 
 ### Change Data Capture
 

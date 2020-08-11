@@ -106,6 +106,7 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Dockerfile Best Practices](https://www.docker.com/blog/speed-up-your-development-flow-with-these-dockerfile-best-practices/)
 - [Github Workflow - Test them locally using Act](https://github.com/nektos/act)
 - [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/)
+- [Code coverage best practices from Google](https://testing.googleblog.com/2020/08/code-coverage-best-practices.html)
 
 ## Distributed messaging, Streams
 - [Why Kafka Is so Fast](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
