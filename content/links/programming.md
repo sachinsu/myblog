@@ -15,7 +15,9 @@ Links covering programming concepts, Architectural Approaches, Cases Studies etc
 - [Uber's Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 
 ## Strategies/Approaches
-- [Strategies for Working with Message Queues ](http://www.doxsey.net/blog/strategies-for-working-with-message-queues)
+
+- [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
+- [Strategies for Working with Message Queues](http://www.doxsey.net/blog/strategies-for-working-with-message-queues)
 - [Break Monolith into Microservices](https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half)
 - [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
 - [Video: Developing Asynchronous Microservices • Chris Richardson](https://www.youtube.com/watch?v=kyNL7yCvQQc)

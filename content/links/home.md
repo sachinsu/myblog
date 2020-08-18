@@ -9,10 +9,10 @@ draft: false
 - [Awesome](http://awesome.re/) - de-facto repository covering wide range of technical topics.
 - [Online Learning](/links/onlearn/)
 - [Perspectives](/links/perspectives/)
-- [Concepts, Strategies etc.](/links/programming/)
+- [Programming Concepts, Strategies etc.](/links/programming/)
 - [Testing](/links/testing/)
 - [UI/UX](/links/uiux)
-- [Programming languages](/links/planguages/)
+- [Languages](/links/planguages/)
   - [Go](/links/go/)
   - [.NET/C#](/links/dotnet/)
   - [Python](/links/python)
@@ -21,8 +21,7 @@ draft: false
   - [Oracle](/links/oracle/)
   - [PostgreSQL](/links/postgresql/)
   - [NoSQL](/links/nosql/)
-- Cloud
-  - [AWS](/links/aws/)
+- [Cloud Tech](/links/cloud/)
 - AI, Machine Learning
   - [Machine Learning](/links/aiml/)
 - [General Purpose tools](/links/tools/)

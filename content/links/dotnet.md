@@ -6,9 +6,11 @@ draft: false
 
 # Microsoft .NET 
 
-Platform where i have spent most time till now. 
+Platform where i have spent most time till now.
 
 ## General Links
+
+- [What is .NET? by Scott Hanselman](https://www.youtube.com/watch?time_continue=1&v=bEfBfBQq7EE&feature=emb_logo)
 - [Async in Depth](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth)
 - [Using Async/Await in WCF or ASMX with AsyncEx](https://blog.stephencleary.com/2012/08/async-wcf-today-and-tomorrow.html)
 - [.NET Presentations - Events in a Box](https://presentations.dotnetfoundation.org/)
@@ -52,6 +54,7 @@ Platform where i have spent most time till now.
 - [GraphQL Server for .NET & .NET Core](https://hotchocolate.io)
 - [General Checklist for Projects](https://github.com/StephenCleary/Docs/blob/master/libraries/README.md)
 - [Open Source Reporting tool for .NET Core/.NET Framework that helps your application generate document-like reports](https://www.fast-report.com)
+- [Open source database, Optimized for Event sourcing](https://github.com/eventstore/eventstore)
 
 ## .NET Core
 - [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?WT.mc_id=ondotnet-channel9-cephilli&view=aspnetcore-2.2)
@@ -62,6 +65,7 @@ Platform where i have spent most time till now.
 - [Working with Channels With Stephen Toub](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET?WT.mc_id=ondotnet-c9-cephilli)
 - [BackgroundService Gotcha: Application Lifetime](https://blog.stephencleary.com/2020/06/backgroundservice-gotcha-application-lifetime.html)
 - [AWS Porting Assistant for .NET](https://aws.amazon.com/blogs/aws/announcing-the-porting-assistant-for-net/)
+- [Sample of Micro services in .NET Core](https://github.com/madslundt/NetCoreMicroservicesSample)
 
 ## Twitter Handles
 
