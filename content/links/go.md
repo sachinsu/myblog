@@ -43,6 +43,7 @@ My current Favourite Language
 ### Libraries, Tools
 
 - [Right way to check weather](https://github.com/chubin/wttr.in)
+- [Golang style guide by Uber](https://github.com/uber-go/guide/blob/master/style.md)
 
 ### Task queues
 

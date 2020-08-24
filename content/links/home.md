@@ -30,3 +30,7 @@ draft: false
 
 - [Hacker news](https://news.ycombinator.com)
 - [Lobsters](https://lobste.rs)
+
+#### Miscellaneous
+
+- [Open Source alternative tools](https://degoogle.jmoore.dev/)
