@@ -2,6 +2,7 @@
 title: "Using Channels for High performance Producer consumer implementation"
 date: 2020-02-12T10:25:04+05:30
 draft: false
+tags: [.net core, channels]
 ---
 
 ## Background

@@ -2,6 +2,7 @@
 title: "Is WebAssembly future of Web Development"
 date: 2020-06-02T10:25:04+05:30
 draft: false
+tags: [WebAssembly, Golang,C#]
 ---
 
 Over the last many years, de-facto language of the Web (specifically front-end) has been Javascript (and variants like Typescript, ECMAScript versions and so on). The Web development has been revolving around HTML+CSS+Javascript trio. It all started with support for Javascript in browsers, followed by addition of XMLHTTP API, Rich DOM Manipulation Support in Javascript. To induce order and apply patterns to Javascript's usage in browsers, numerous frameworks and libraries were introduced like [React](https://reactjs.org) and [Vue](https://vuejs.org) among others. To begin with, The target used to be browsers on Large Devices like Desktop & Laptops. However, soon all sorts of devices were targetted with advent of Responsive and Progressive CSS+Javascript libraries eg. [Bootstrap](https://getbootstrap.com). Offline Support soon came in ref: [Electron](https://electronjs.org) and [Progressive Web Applications](https://web.dev/progressive-web-apps/). 
@@ -18,7 +19,7 @@ As per [Wikipedia](https://en.wikipedia.org/wiki/WebAssembly),
 
  > WebAssembly (often shortened to Wasm) is an open standard that defines a portable binary-code format for executable programs, and a corresponding textual assembly language, as well as interfaces for facilitating interactions between such programs and their host environment.
 
-> WebAssembly or wasm is a low-level bytecode format for in-browser client-side scripting, evolved from JavaScript.
+> WebAssembly or wasm is a low-level bytecode format for in-browser client-side scripting, evolved from JavaScript. It is [intermidiate representation](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)(IR) where IR is transformed into machine instructions for the client architecture by browser.
 
 WebAssembly executables are precompiled, hence it is possible to use a variety of programming languages to make them. This essentially means that one can use same language for Server Side as well as Client side (i.e. in browser) development like ([C#](https://docs.microsoft.com/en-us/dotnet/csharp/) or [Golang](https://golang.org/)).
 
