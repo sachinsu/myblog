@@ -54,7 +54,7 @@ This was like a end of the road since simulation would have greatly helped in di
     - Modify the connection lifetime to be less than time out at firewall and increase the "Time out" period.
     - Introduce Retry functionality using Excellent [Polly](https://github.com/App-vNext/Polly) library with exponential back-off. 
 
-        `{{< carbon gistid="d3888ab4418b937a650e880ec4682653?filename=extensions.cs">}}`
+    `{{< carbon gistid="d3888ab4418b937a650e880ec4682653?filename=extensions.cs">}}`
 
     These changes have been deployed to production and so far % of "Connection Request Timed out" errors have gone down significantly. 
 
@@ -63,7 +63,8 @@ This was like a end of the road since simulation would have greatly helped in di
 Some key areas of focus are,
 - For a distributed system, Always validate assumptions by dignosing end to end. 
 - Plan to have test automation readyness to simulate production like load.
-- Currently, Pool settings across applications is very High.Be mindful of [Connection Storms](https://docs.oracle.com/en/database/oracle/oracle-database/18/adfns/connection_strategies.html)
+- Monitoring the behavior end to end using logs.
+- Currently, Pool settings across applications is not optimal going by Oracle Real world Guidelines, also be mindful of [Connection Storms](https://docs.oracle.com/en/database/oracle/oracle-database/18/adfns/connection_strategies.html)
 
 
 Happy Troubleshooting !!
