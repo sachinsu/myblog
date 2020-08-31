@@ -42,7 +42,7 @@ In Brief,
 
 ## Current Status
     
-* The code is ready and functionality to retrieve followers and saving in local DB is tested. Code to send DM is not yet tested as it will require setting up dummy twitter account.
+The code is ready and functionality to retrieve followers and saving in local DB is tested. Code to send DM is not yet tested as it will require setting up dummy twitter account.
 
 ## Roadmap
 
